@@ -1,0 +1,23 @@
+name: iPizzo
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  amplify_analytics_pinpoint: ^1.4.0
+  amplify_auth_cognito: ^1.4.0
+  flutter:
+    sdk: flutter
+  flutter_login: ^4.2.1
+  salomon_bottom_bar: ^3.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true

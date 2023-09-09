@@ -1,0 +1,21 @@
+{
+    "appName": "ipizzo",
+    "roleName": "pinpointLambdaRole0ea622f6",
+    "cloudformationPolicyName": "cloudformationPolicy0ea622f6",
+    "cloudWatchPolicyName": "cloudWatchPolicy0ea622f6",
+    "pinpointPolicyName": "pinpointPolicy0ea622f6",
+    "authPolicyName": "pinpoint_amplify_0ea622f6",
+    "unauthPolicyName": "pinpoint_amplify_0ea622f6",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    }
+}

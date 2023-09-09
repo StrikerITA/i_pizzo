@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ipizzo-dev-165947-authRole",
+      "UnauthRoleArn": "arn:aws:iam::620620973242:role/amplify-ipizzo-dev-165947-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::620620973242:role/amplify-ipizzo-dev-165947-authRole",
+      "Region": "eu-south-1",
+      "DeploymentBucketName": "amplify-ipizzo-dev-165947-deployment",
+      "UnauthRoleName": "amplify-ipizzo-dev-165947-unauthRole",
+      "StackName": "amplify-ipizzo-dev-165947",
+      "StackId": "arn:aws:cloudformation:eu-south-1:620620973242:stack/amplify-ipizzo-dev-165947/8574e650-4f21-11ee-a2ba-0eb17acc412e",
+      "AmplifyAppId": "dcpzw845i6ibj"
+    },
+    "categories": {
+      "auth": {
+        "ipizzofc75606b": {}
+      },
+      "analytics": {
+        "ipizzo": {}
+      }
+    }
+  }
+}
