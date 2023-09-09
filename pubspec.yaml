@@ -1,5 +1,5 @@
 name: iPizzo
-description: A new Flutter project.
+description: I don't know how to spend my time and i want to create something using AWS. This isn't a sample, this is a real app hosted on AWS. If you wanna give me any tips to fix a bug or anything else please contact me.
 publish_to: 'none'
 version: 0.1.0
 
@@ -21,3 +21,7 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  assets:
+  - assets/images/
+  - assets/icons/
